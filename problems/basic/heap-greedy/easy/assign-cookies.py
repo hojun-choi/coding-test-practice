@@ -1,0 +1,31 @@
+"""
+Problem: Assign Cookies
+Difficulty: Easy
+Category: Heap / Greedy
+Link: https://leetcode.com/problems/assign-cookies/
+
+Study Plan:
+- Week: 6
+- Day: 3
+- Role: Practice
+- Task:
+  - Use sorting plus greedy matching.
+
+Idea:
+-
+
+Time Complexity:
+-
+
+Space Complexity:
+-
+
+Status:
+- Unsolved
+
+Mistake:
+-
+
+Retry:
+-
+"""

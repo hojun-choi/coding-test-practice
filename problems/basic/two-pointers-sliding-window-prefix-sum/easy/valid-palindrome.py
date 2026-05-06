@@ -1,0 +1,32 @@
+"""
+Problem: Valid Palindrome
+Difficulty: Easy
+Category: Two Pointers / Sliding Window / Prefix Sum
+Link: https://leetcode.com/problems/valid-palindrome/
+
+Study Plan:
+- Week: 2
+- Day: 1
+- Role: Concept Example
+- Task:
+  - Practice two-pointer movement with character filtering.
+  - Retry on Week 2 Day 4 for speed.
+
+Idea:
+-
+
+Time Complexity:
+-
+
+Space Complexity:
+-
+
+Status:
+- Unsolved
+
+Mistake:
+-
+
+Retry:
+-
+"""
