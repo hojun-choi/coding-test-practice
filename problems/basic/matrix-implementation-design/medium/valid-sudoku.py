@@ -13,20 +13,35 @@ Study Plan:
   - Retry on Week 8 Day 4 after the design set.
 
 Idea:
--
+- Not written yet.
+
+Code:
+  '''
+  '''
 
 Time Complexity:
--
+- Not written yet.
 
 Space Complexity:
--
+- Not written yet.
 
 Status:
 - Unsolved
 
 Mistake:
--
+- None yet.
 
 Retry:
--
+  Idea:
+  -
+
+  Code:
+    '''
+    '''
+
+  Time Complexity:
+  -
+
+  Space Complexity:
+  -
 """

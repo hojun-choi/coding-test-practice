@@ -13,20 +13,35 @@ Study Plan:
   - Retry on Week 3 Day 4 without peeking at notes.
 
 Idea:
--
+- Not written yet.
+
+Code:
+  '''
+  '''
 
 Time Complexity:
--
+- Not written yet.
 
 Space Complexity:
--
+- Not written yet.
 
 Status:
 - Unsolved
 
 Mistake:
--
+- None yet.
 
 Retry:
--
+  Idea:
+  -
+
+  Code:
+    '''
+    '''
+
+  Time Complexity:
+  -
+
+  Space Complexity:
+  -
 """

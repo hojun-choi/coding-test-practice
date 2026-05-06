@@ -12,20 +12,35 @@ Study Plan:
   - Explain why the running subarray should reset.
 
 Idea:
--
+- Not written yet.
+
+Code:
+  '''
+  '''
 
 Time Complexity:
--
+- Not written yet.
 
 Space Complexity:
--
+- Not written yet.
 
 Status:
 - Unsolved
 
 Mistake:
--
+- None yet.
 
 Retry:
--
+  Idea:
+  -
+
+  Code:
+    '''
+    '''
+
+  Time Complexity:
+  -
+
+  Space Complexity:
+  -
 """

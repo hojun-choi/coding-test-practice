@@ -12,6 +12,9 @@ Study Plan:
   - Practice complement lookup with a hash map.
   - Retry on Week 1 Day 4 without hints.
 
+Idea:
+- 리스트 차례대로 확인
+
 Code:
   '''
   class Solution:
@@ -22,7 +25,7 @@ Code:
               targetSecondN = target - firstN
               for n2 in range(n + 1, listN):
                   if targetSecondN == nums[n2]:
-                      return [n,n2]
+                      return [n, n2]
   '''
 
 Time Complexity:
@@ -30,15 +33,17 @@ Time Complexity:
 
 Space Complexity:
 - O(1) as we are not using any additional data structures.
--
 
 Status:
 - Solved
 
 Mistake:
--
+- None yet.
 
 Retry:
+  Idea:
+  - 지나온거 다 기억 후 필요 할 때 바로 꺼내서 확인하기
+
   Code:
     '''
     class Solution:
